@@ -16,15 +16,14 @@ The project addresses the need for efficient and convenient home automation solu
 - Eliminate the need for physical presence to operate appliances.
 ## Methodology
 ### The system operates as follows:
-1.User sends SMS commands from a mobile phone to the GSM module.
-2.GSM module forwards the commands to the Arduino microcontroller.
-3.Arduino processes the commands and triggers actions on the relay board to control appliances.
-4.Status updates are sent back to the user via SMS.
+1. User sends SMS commands from a mobile phone to the GSM module.
+2. GSM module forwards the commands to the Arduino microcontroller.
+3. Arduino processes the commands and triggers actions on the relay board to control appliances.
+4. Status updates are sent back to the user via SMS.
 ## Results and Discussions
 The system has been successfully tested and demonstrated its ability to control appliances remotely using SMS commands. It offers a cost-effective and accessible solution for home automation.
 ## Conclusion and Future Scope
 GSM-Based Home Automation presents a viable solution for modernizing home management. Future developments may include integration with voice commands, enhanced security features, and expanded compatibility with smart devices.
-## References
 ## References
 
 - Arduino Project Hub. (n.d.). "GSM based Home Appliance Control." Retrieved from [Arduino Project Hub](https://create.arduino.cc/projecthub/embeddedlab786/gsm-based-home-appliance-control-5de80a)
