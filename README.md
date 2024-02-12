@@ -1,6 +1,7 @@
 # GSM-Based Home Automation
 ## Introduction
 GSM-Based Home Automation is a project designed to enable remote control and monitoring of household appliances using GSM technology. This system allows users to control their appliances from anywhere using a mobile phone with SMS capabilities.
+
 [Download Video](https://github.com/Hrut7hesh/HOME-AUTOMATION-BASED-ON-GSM-MODULE/blob/main/video.mp4)
 ## Background
 The project leverages GSM modules and Arduino microcontrollers to create a networked system that communicates via SMS messages. Through this system, users can send commands to the GSM module, which then triggers actions on connected appliances through the microcontroller and relay board.
